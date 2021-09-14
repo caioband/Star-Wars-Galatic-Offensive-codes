@@ -1,3 +1,4 @@
+----Result here: https://streamable.com/h91m56
 game.StarterGui:SetCoreGuiEnabled(Enum.CoreGuiType.PlayerList, false)
 local GameGui = game.StarterGui:WaitForChild("GameGui")
 local LoadoutFR = GameGui:WaitForChild("Loadout")
