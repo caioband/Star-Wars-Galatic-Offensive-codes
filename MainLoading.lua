@@ -1,3 +1,5 @@
+---See the result here: https://streamable.com/m32urf
+
 local Players = game:GetService("Players")
 local ReplicatedFirst = game:GetService("ReplicatedFirst")
 local TweenService = game:GetService("TweenService")
